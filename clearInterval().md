@@ -1,0 +1,1 @@
+Utilizado para detener el [[setInterval()]], es neceseario ingresar un Id Adecuado
