@@ -1,0 +1,1 @@
+Como scrum Master: Apegar mediante Scrum encargado de validar el marco de trabajo

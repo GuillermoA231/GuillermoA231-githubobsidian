@@ -1,0 +1,1 @@
+convierte una variable formato json a string

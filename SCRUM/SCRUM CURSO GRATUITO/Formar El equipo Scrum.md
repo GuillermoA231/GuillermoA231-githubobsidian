@@ -1,0 +1,1 @@
+Usa mediante [[Criterios de selección del Equipo Scrum]] para evitar alguna laguna de habilidades

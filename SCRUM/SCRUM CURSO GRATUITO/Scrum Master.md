@@ -1,0 +1,2 @@
+Encargado de asegurar que el equipo SCRUM esté dotado de un ambiente propicio para completar con el éxito de desarrollo del producto.
+El SCRUM master facilita, guia y enseña las prácticas de Scrum a todos los participantes del proyecto, elimina los impedimentos que enfretna el equipo y asegura su constante proceso

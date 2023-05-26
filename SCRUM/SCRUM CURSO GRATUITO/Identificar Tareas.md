@@ -1,0 +1,1 @@
+De las [[Historias de usuario]] hay que crear TAREAS: Las cuales descomponen todo en [[Sprint Backlog]]

@@ -1,0 +1,1 @@
+Todos puedan actualizar el [[Sprint backlog]] y representarlo mediante artefactos como [[Scrum Board]]
