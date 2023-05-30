@@ -1,1 +1,0 @@
-Es el grupo responsable de entender los requerimientos del producto  para estimar las historias de usuarios y de la creacioń final del producto
